@@ -23,6 +23,9 @@ Adam_Inpulse
 Alexei_Vincent
 Antonio_Brulleli
 Asap_York
+Alex_Vendetta
+Aleksandr_Anisimov
+Andrey_Firsov
 Benjamin_Milok
 Benz_Mansory
 Ben_Newer
@@ -70,6 +73,7 @@ Dimon_Soldatov
 Donnie_West_
 Devil_Arizatto
 Dark_Yudi
+Danil_Novikov
 Eric_Minnesota
 Eddie_Redmond
 Egorka_Forest
@@ -86,10 +90,12 @@ Ethan_Khomyakov
 El_Caponer
 Eddie_Capone_
 Ervin_Moretti
+Evgeniy_Forse
 Frank_Robertson
 Fedya_Barvinchenko
 Fred_Zotov
 Fernando_Holmes
+Fenix_Vendet
 Grigory_Potemckin
 Genry_Oldman
 Gregory_Gaikov
@@ -112,6 +118,7 @@ Hayasi_Yosida
 Hayato_Murakami
 Howard_Haysize
 Hilko_Best
+Hugo_Arma
 Igor_Chaikin
 Isaac_Beasley
 Ilya_Bell
@@ -151,6 +158,7 @@ Konstantin_Mirniy
 Kristina_William
 Kevin_Swager
 Katya_Baltika_
+Kisel_Frame
 Lionel_Calpone
 Looker_Jeffwood
 Luis_Martin
@@ -184,6 +192,8 @@ Miracle_Magnificent
 Marco_Gazzo
 Maksim_Shulika
 Mimic_Chest
+Megamima_Tensei
+Mason_Garcia
 Neri_DiAngelo
 Nazyl_Galiullin
 Nekit_Krut
@@ -234,6 +244,10 @@ Sindzi_Ikari
 Skuezz_Giordano
 Sergio_Costello
 Samo_Shaboyan
+Sakura_Kato
+Svytoslav_Sokol
+Semen_Carpov
+Scruff_Farram
 Thomas_Traverrso
 Tomas_Hatler
 Tatho_Ingannamorte
@@ -248,6 +262,7 @@ Toily_Esaulkov
 Tyrion_McFarlane
 Timofei_Enotov
 Taylor_Wade
+Travis_Brody
 Tamerlan_Matveenko
 Tony_Guerrero
 Veyron_Supreme
@@ -258,6 +273,8 @@ Vito_Manfredi
 Vlad_Bradesko
 Vanek_Anosov
 Vladik_Popov
+Vitalik_Kloner
+Vitto_Dragonetti
 Wiss_Adderly
 Wade_Jordan
 Waka_Jordan
